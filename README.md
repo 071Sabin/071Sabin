@@ -2,7 +2,7 @@
 ### Laravel & Backend Engineer | Redis • Queues • Scalable Web Apps
 
 I build backend-focused web applications using **Laravel, Redis, and modern JavaScript stacks**.  
-My focus is writing clean architecture, scalable job systems, and production-ready APIs — not just UI projects.
+My focus is writing clean architecture, scalable job systems, and production-ready APIs.
 
 ---
 
