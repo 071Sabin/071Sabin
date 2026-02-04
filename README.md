@@ -2,11 +2,9 @@
 Laravel & Next.js Developer | Backend Focused
 
 ## 🚀 Tech Stack
-- Laravel, PHP
-- Redis, Queues
-- JavaScript, Next.js
-- HTML, CSS
-- MySQL
+## 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=laravel,redis,js,nextjs,html,css,mysql,php)](https://skillicons.dev)
+
 
 ## 💼 What I Build
 - Scalable Laravel backends
