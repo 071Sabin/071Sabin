@@ -1,61 +1,57 @@
-# Hi, I'm Sabin Panthi 👋
-### Laravel & Backend Engineer | Redis • Queues • Scalable Web Apps
+# Hi, I'm Sabin Panthi 👋 
+### Senior Backend Architect | Enterprise Laravel Solutions | Scalable Systems
 
-I build backend-focused web applications using **Laravel, Redis, and modern JavaScript stacks**.  
-My focus is writing clean architecture, scalable job systems, and production-ready APIs.
-
----
-
-## 🚀 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,redis,nextjs,js,html,css,mysql,git)](https://skillicons.dev)
+I specialize in architecting high-performance, event-driven backend systems that transform complex business logic into seamless user experiences. I don't just write code; I build **architectures that scale.**
 
 ---
 
-## 💼 What I Do
-✔ Design scalable **Laravel backend systems**  
-✔ Build **Queue & Job processing** with Redis  
-✔ Create API-driven applications  
-✔ Develop full-stack apps using Next.js + Laravel  
-✔ Optimize performance using caching strategies
+## 🛠️ Core Engineering Arsenal
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,redis,mysql,nextjs,js,git,html,css)](https://skillicons.dev)
+
+> **Key Expertise:** Event-Driven Architecture • Scalable API Design • Performance Optimization • RBAC & Security Pipelines
 
 ---
 
-## 🧠 Engineering Focus
-- Laravel Queues & Background Jobs
-- Event-driven architecture
-- REST API design
-- Redis caching & performance optimization
-- Clean code structure & reusable components
+## 🏗️ Featured Projects
+
+### 🏥 Cancer Patient Navigator Ecosystem (Flagship)
+*An enterprise-grade orchestration platform designed to eliminate administrative friction in healthcare.*
+- **Centralized Command:** A unified hub where Admin, Navigators, and Clients manage housings and transports in one place.
+- **Advanced RBAC:** Fine-grained Role-Based Access Control for secure, isolated data environments.
+- **Real-time Sync:** Integrated message broadcasting and cross-role request systems (Admin ↔ Navigator).
+- **Technical Edge:** Built with complex **Eloquent ORM relations** and custom API endpoints to ensure zero-latency data access, saving critical time for care providers.
+
+### 💼 Freelancer CRM & WhatsApp Automation
+*Automating high-ticket client acquisition through deep API integration.*
+- **Workflow Efficiency:** Integrated WhatsApp Business API for automated notification triggers and lead tracking.
+- **Webhook Processing:** Engineered a robust backend to handle high-frequency incoming data streams.
+
+### 🛡️ Enterprise KYC & Approval Pipeline
+*A secure, multi-stage verification engine for high-compliance environments.*
+- **Async Logic:** Built with **Laravel Queues and Redis** to handle intensive validation pipelines without blocking the UI.
+- **Security First:** Implemented strict multi-step approval workflows with audit logs.
 
 ---
 
-## 💼 Featured Projects
-
-### 🛡️ Admin Approval & KYC Verification System
-- Multi-step approval workflow with role-based access
-- Secure KYC verification logic & validation pipelines
-- Background job processing for async tasks
-- Built with Laravel queues and scalable architecture
-
-### 🧠 Image-to-Text Engine (Node.js)
-- OCR-based image processing system
-- Backend automation using Node.js
-- API structure for extracting structured text data
-
-### 💼 Freelancer CRM with WhatsApp API
-- CRM system for managing clients & communication
-- WhatsApp API integration for automated messaging
-- Backend-heavy logic focused on workflow efficiency
+## 🧠 Technical Philosophy
+- **Clean Architecture:** Strict adherence to SOLID principles and DRY patterns for maintainable codebases.
+- **Asynchronous-by-Default:** Leveraging Redis-backed Job Queues for heavy processing tasks.
+- **Data Integrity:** Deep expertise in relational database normalization and Eloquent optimization.
 
 ---
 
-## 📈 Currently Improving
-- Advanced backend architecture patterns
-- High-performance API design
-- System scalability & optimization
+## 📈 Currently Scaling
+- Advanced Backend Micro-services Architecture
+- High-Performance System Optimization
+- International Enterprise SaaS Development
 
 ---
 
-## 📫 Contact
-🌐 Portfolio: https://sabinpanthi.onrender.com  
-📧 Email: 071.sabin.panthi@gmail.com
+## 📫 Let's Build Something Massive
+I am focused on collaborating with international partners on high-stakes applications that require top-tier backend engineering.
+
+🌐 **Portfolio:** [sabinpanthi.onrender.com](https://sabinpanthi.onrender.com)  
+📧 **Email:** [071.sabin.panthi@gmail.com](mailto:071.sabin.panthi@gmail.com)  
+💼 **Availability:** Open for high-value architectural consultations.
+
+---
