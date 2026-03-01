@@ -1,5 +1,5 @@
 # Hi, I'm Sabin Panthi 👋 
-### Senior Backend Architect | Enterprise Laravel Solutions | Scalable Systems
+###  Backend Architect | Enterprise Laravel Solutions | Scalable Systems
 
 I specialize in architecting high-performance, event-driven backend systems that transform complex business logic into seamless user experiences. I don't just write code; I build **architectures that scale.**
 
