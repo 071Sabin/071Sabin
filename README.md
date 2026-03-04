@@ -50,7 +50,7 @@ I specialize in architecting high-performance, event-driven backend systems that
 ## 📫 Let's Build Something Massive
 I am focused on collaborating with international partners on high-stakes applications that require top-tier backend engineering.
 
-🌐 **Portfolio:** [sabinpanthi.onrender.com](https://sabinpanthi.onrender.com)  
+🌐 **Portfolio:** [sabinpanthi.com.np](https://sabinpanthi.com.np)  
 📧 **Email:** [071.sabin.panthi@gmail.com](mailto:071.sabin.panthi@gmail.com)  
 💼 **Availability:** Open for high-value architectural consultations.
 
